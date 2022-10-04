@@ -1,4 +1,4 @@
-# Jenkins Pipeline for Concur hybris
+# Jenkins Pipeline for hybris
 
 ## Description
 This project contains scripts for Jenkins CI projects with SAP Commerce Cloud. The Pipelines are defined as [Scripted Pipeline](https://www.jenkins.io/doc/book/pipeline/syntax/#scripted-pipeline). It means that they are written in Groovy.
